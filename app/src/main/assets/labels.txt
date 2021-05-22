@@ -1,0 +1,4 @@
+0 Hot_dog
+1 Not_hotdog
+2 Stinky_dog
+3 Dog
